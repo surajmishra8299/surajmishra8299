@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suraj Mishra
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Web Dev & DSA
+- 👀 I’m interested in Python Developer
+- 🌱 I’m currently learning DSA with Python & AI/ML
 - 📫 Contact: surajmishra388495@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Code at 11:11
